@@ -1,7 +1,7 @@
 # Django-Currency-Converter
   forex-python 1.8
   Django
-# Django Currency Converter
+
 
 Django Currency Converter is a web application that allows users to convert currencies using the `forex-python` library. This README provides an overview of the project and instructions for setting it up and running it locally.
 
@@ -27,7 +27,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/Princeroy1/Django-Currency-Converter
 
 
 
